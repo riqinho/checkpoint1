@@ -1,7 +1,5 @@
 package br.com.fiap.checkpoint1.model;
 
-import jakarta.persistence.Entity;
-
 public class Paciente {
     private Long id;
     private String nome;

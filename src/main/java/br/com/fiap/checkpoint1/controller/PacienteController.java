@@ -66,8 +66,4 @@ public class PacienteController {
           .collect(Collectors.toList());
         return ResponseEntity.ok(response);
     }
-
-   
-
-
 }
